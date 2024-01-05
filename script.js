@@ -1,17 +1,17 @@
 const person = {
-    profile_pic: "./image/moosa.jpeg",
+    profile_pic: "./image/amber.png",
     profile_logo: "",
 
-    Name: "Mosa Navas MS",
-    designation: "",
+    Name: "Amber Oud & Attar",
+    designation: "@Markaz knowledge city",
     des_link_text: "",
-    des_link: "https://neptunemark.com/",
-    contact: "./contact/Mosa Navas(7).vcf",
+    des_link: "",
+    contact: "./contact/amber.vcf",
 };
 
 const contact ={
-    contact_no: "+919745184219",
-    whatsapp: "+919745184219",
+    contact_no: "+919645119112",
+    whatsapp: "+919645119112",
     location: "",
     email: "",
 };
@@ -30,11 +30,11 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/moosa.navas.3?mibextid=LQQJ4d"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://www.instagram.com/moosa_navas?igsh=MWhpeWJyZ254aXp6cQ=="
   },
     skype={
@@ -46,7 +46,7 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: true,
+    visibil: false,
     link:"https://www.linkedin.com/in/moosa-navas-47a736233/"
   },
     behance={
@@ -62,7 +62,7 @@ const links =[
     link:"minhajktp18@gmail.com"
   },
     google={
-    visibil: false,
+    visibil: true,
     link:"https://navigotrips.com/"
   },
     telegram={
