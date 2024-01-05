@@ -63,7 +63,7 @@ const links =[
   },
     google={
     visibil: true,
-    link:"https://navigotrips.com/"
+    link:"https://search.google.com/local/writereview?placeid=ChIJHciY1axtpjsRPGV01siWnWs"
   },
     telegram={
     visibil: false,
